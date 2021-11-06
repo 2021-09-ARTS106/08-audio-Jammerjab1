@@ -9,6 +9,7 @@ TagManager:
   - HardFloor
   - Enemy Trigger
   - EnemyTrigger
+  - Ambience
   layers:
   - Default
   - TransparentFX
@@ -20,7 +21,7 @@ TagManager:
   - 
   - PostProcessing
   - 
-  - 
+  - Enemies
   - 
   - 
   - 
